@@ -9,7 +9,6 @@
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ninjrd/)
 
 [![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/jaguting)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jaredguting)
 
 </div>
 
